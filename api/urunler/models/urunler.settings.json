@@ -41,6 +41,9 @@
     },
     "expirationDate": {
       "type": "datetime"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }
